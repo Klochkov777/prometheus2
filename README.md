@@ -32,17 +32,17 @@
 останавливать node-exporter и показывать pending до установки alert manager не имеет смысла, поэтому я 
 привожу скрин после его установки и остановки node-exporter
 
-1. []()
+1. [pending: node-exporter down](https://github.com/Klochkov777/prometheus2/blob/master/screen/1%20task%20with%20pending.png)
 
 ### Задание 2
 
-1. []()
-2. []()
+1. [firing: node-exporter down](https://github.com/Klochkov777/prometheus2/blob/master/screen/2.1%20task%20firing.png)
+2. [alert: node-exporter down](https://github.com/Klochkov777/prometheus2/blob/master/screen/2.2%20tak%20alert.png)
 
 ### Задание 3
 
-1. []()
-2. []()
+1. [docker endpoint](https://github.com/Klochkov777/prometheus2/blob/master/screen/3.1%20task%20open%20endpoint.png)
+2. [prometheus targets](https://github.com/Klochkov777/prometheus2/blob/master/screen/3.2%20tak%20prometheus%20targets.png)
 
 
 
